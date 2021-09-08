@@ -48,12 +48,18 @@ Grouping of the data
 
 
 Areaspline chart for ratings of multiple courses per month 
+
+
 ![image](https://user-images.githubusercontent.com/10756648/132443990-a42d5013-7587-419e-91de-60f3c8bf1655.png)
 
 By changing the Areaspline to streamgraph we obtain the following visualisation 
+
+
 ![course-wise-ratings-with](https://user-images.githubusercontent.com/10756648/132444449-17023927-77be-4a05-b573-49e33b876114.png)
 
 The final task is to represent the course and their number of ratings in terms of pie-chart. pie-chart functionality of the high charts are used 
+
+
 ![browser-market-shares-in](https://user-images.githubusercontent.com/10756648/132444782-3b69de87-c68f-4485-99fb-09c4ccd093b8.png)
 
 Learnings from the application development 
