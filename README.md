@@ -25,12 +25,18 @@ First task of the project is to display the average rating per day, we will be u
 ![image](https://user-images.githubusercontent.com/10756648/132439533-4f8185b5-3fd2-4e17-8f82-5157cb3f141f.png)
 
 Data is then grouped in terms of the day and ratings are calculated 
+
 ![image](https://user-images.githubusercontent.com/10756648/132440101-909a24a3-4855-4d64-98f0-665d3c9e7a59.png)
 
 On running the code by using justpy and Highcharts we arrive at the following visualisation ( 1-avg-rating-per-day.py)
+
 ![average-rating-by-day (1)](https://user-images.githubusercontent.com/10756648/132440236-cdddc7e7-633a-44dd-986a-8db534a51738.png)
 
-Next task is to display the 
+Next task is to display the average rating per week, similar code is used wherein instead of groupby using days, groupby by weeks
+are used to the display the data. Spline charts are used 
 
+![chart](https://user-images.githubusercontent.com/10756648/132441036-42abb7ac-c079-4f84-8b8b-18e34a2b60b3.png)
+
+Average ratings per 
 
 
