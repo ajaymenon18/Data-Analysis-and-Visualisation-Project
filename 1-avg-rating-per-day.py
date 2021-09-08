@@ -10,6 +10,8 @@ day_average = data.groupby(['Day']).mean()
 
 
 #code of highcharts javascripts code are pasted in the main code 
+#https://www.highcharts.com/docs/chart-and-series-types/spline-chart : The copied code from the spline chart 
+
 
 chart_def = """    
 {

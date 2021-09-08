@@ -12,7 +12,6 @@ week_average = data.groupby(['Week']).mean()
 
 
 
-
 chart_def = """
 {
     chart: {
@@ -20,10 +19,10 @@ chart_def = """
         inverted: false
     },
     title: {
-        text: 'Atmosphere Temperature by Altitude'
+        text: ''
     },
     subtitle: {
-        text: 'According to the Standard Atmosphere Model'
+        text: 'Reviews of the courses with respect to week '
     },
     xAxis: {
         reversed: false,
