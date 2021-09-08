@@ -59,8 +59,9 @@ By changing the Areaspline to streamgraph we obtain the following visualisation
 
 The final task is to represent the course and their number of ratings in terms of pie-chart. pie-chart functionality of the high charts are used 
 
+![image](https://user-images.githubusercontent.com/10756648/132445454-3a556782-4884-448e-95f0-5254a4327a6c.png)
 
-![browser-market-shares-in](https://user-images.githubusercontent.com/10756648/132444782-3b69de87-c68f-4485-99fb-09c4ccd093b8.png)
+
 
 Learnings from the application development 
 Greater understanding about justpy, pandas, highchart codes and data visualization 
